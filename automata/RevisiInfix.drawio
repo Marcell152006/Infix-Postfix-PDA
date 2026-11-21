@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="J5lys-yXgUANSVdEkiDS">
+    <mxGraphModel dx="2289" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="Start" mermaidId="n:Start" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="Start" id="FTYVEgmSznc4MmjY-UXY-1">
+          <mxCell parent="1" style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=5;fillColor=none;fontFamily=Times New Roman;fontSize=35;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" vertex="1">
+            <mxGeometry height="65" width="251" x="120" y="191.25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-2" edge="1" parent="1" source="FTYVEgmSznc4MmjY-UXY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelPadding=0 4;strokeWidth=5;fontFamily=Times New Roman;fontSize=30;fontColor=light-dark(#000000,#FFFFFF);textShadow=0;labelBorderColor=none;labelBackgroundColor=light-dark(#FFFFFF,#4D4D4D);" target="FTYVEgmSznc4MmjY-UXY-6" value="&lt;font&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ε, Z₀ → E Z₀&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0213" y="-36" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font&gt;q0&lt;/font&gt;" mermaidId="n:q1" mermaidBaseStyle="ellipse;html=1;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="q1" id="FTYVEgmSznc4MmjY-UXY-3">
+          <mxCell parent="1" style="ellipse;html=1;aspect=fixed;strokeWidth=5;whiteSpace=wrap;fillColor=none;fontFamily=Times New Roman;fontSize=35;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" vertex="1">
+            <mxGeometry height="227.5" width="227.5" x="580" y="110" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-4" edge="1" parent="1" source="FTYVEgmSznc4MmjY-UXY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=5;fontFamily=Times New Roman;fontSize=13;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1654" y="223.74999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-5" connectable="0" parent="FTYVEgmSznc4MmjY-UXY-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelPadding;fontColor=light-dark(#F0EFEC,#FFFFFF);fontFamily=Times New Roman;fontSize=30;labelPadding=0 4;labelBackgroundColor=light-dark(#FFFFFF,#4D4D4D);" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font&gt;&lt;b&gt;ε, Z₀ → ε (*)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1602" y="5" as="geometry">
+            <mxPoint x="22" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font&gt;q1&lt;/font&gt;" mermaidId="n:q1" mermaidBaseStyle="ellipse;html=1;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="q1" id="FTYVEgmSznc4MmjY-UXY-6">
+          <mxCell parent="1" style="ellipse;html=1;aspect=fixed;strokeWidth=5;whiteSpace=wrap;fillColor=none;fontFamily=Times New Roman;fontSize=35;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" vertex="1">
+            <mxGeometry height="227.5" width="227.5" x="1160" y="110" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-7" edge="1" parent="1" source="FTYVEgmSznc4MmjY-UXY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=5;fontFamily=Times New Roman;fontSize=13;" target="FTYVEgmSznc4MmjY-UXY-6">
+          <mxGeometry relative="1" x="0.2897" as="geometry">
+            <Array as="points">
+              <mxPoint x="1193.3" y="40" />
+              <mxPoint x="1354.2" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-8" connectable="0" parent="FTYVEgmSznc4MmjY-UXY-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelPadding;fontColor=light-dark(#F0EFEC,#FFFFFF);fontFamily=Times New Roman;fontSize=30;labelPadding=0 4;labelBackgroundColor=light-dark(#FFFFFF,#4D4D4D);" value="&lt;font&gt;&lt;b&gt;&lt;span&gt;X, X → ε&lt;/span&gt;&lt;br&gt;&lt;span&gt;X ∈ { ( ) + - * / 0...9 }&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0492" y="3" as="geometry">
+            <mxPoint x="-253" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-9" edge="1" parent="1" source="FTYVEgmSznc4MmjY-UXY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeWidth=5;fontFamily=Times New Roman;fontSize=13;" target="FTYVEgmSznc4MmjY-UXY-6">
+          <mxGeometry relative="1" x="0.2097" as="geometry">
+            <Array as="points">
+              <mxPoint x="1193.3" y="480" />
+              <mxPoint x="1354.2" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-10" connectable="0" parent="FTYVEgmSznc4MmjY-UXY-9" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];inheritText=fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelPadding;fontColor=light-dark(rgb(203, 201, 221), #ffffff);fontFamily=Times New Roman;fontSize=30;labelPadding=0 4;labelBackgroundColor=light-dark(#FFFFFF,#4D4D4D);" value="&lt;span style=&quot;&quot;&gt;&lt;span&gt;ε, E → T E&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, E&#39; → + T E&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, E&#39; → - T E&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, E&#39; → ε&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, T → F T&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, T&#39; → * F T&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, T&#39; → / F T&#39;&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, T&#39; → ε&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, F → ( E )&lt;/span&gt;&lt;br&gt;&lt;span&gt;ε, F → 0 | 1 | 2 | ... | 9&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0131" y="2" as="geometry">
+            <mxPoint x="123" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=15;endSize=9;targetPerimeterSpacing=2;fixedPointSpacing=1;startSize=10;strokeWidth=5;entryX=-0.001;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="228.03" as="sourcePoint" />
+            <mxPoint x="577.7742124793472" y="228.0322534906846" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font&gt;qf&lt;/font&gt;" mermaidId="n:qf" mermaidBaseStyle="ellipse;html=1;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#28253D;fontColor=#28253D;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="qf" id="FTYVEgmSznc4MmjY-UXY-12">
+          <mxCell parent="1" style="ellipse;html=1;shape=doubleEllipse;aspect=fixed;strokeWidth=5;whiteSpace=wrap;fillColor=none;strokeColor=#28253D;fontColor=#28253D;fontFamily=Times New Roman;fontSize=35;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" vertex="1">
+            <mxGeometry height="240" width="240" x="1654" y="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FTYVEgmSznc4MmjY-UXY-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=none;" value="&lt;table style=&quot;border-collapse: collapse; width: 100%; font-size: 20px; text-align: left;&quot;&gt;    &lt;thead&gt;      &lt;tr&gt;        &lt;th colspan=&quot;3&quot; style=&quot;background-color: rgb(31, 56, 100); color: rgb(255, 255, 255); padding: 11px 16px; text-align: left; font-size: 24px; border: 1.5px solid rgb(31, 56, 100);&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot;&gt;Tabel Transisi δ&lt;/span&gt;&lt;/th&gt;      &lt;/tr&gt;      &lt;tr style=&quot;background-color: rgb(217, 225, 242); color: rgb(0, 0, 0); font-weight: bold; text-align: center;&quot;&gt;        &lt;th style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 10px 14px; width: 60px;&quot;&gt;No.&lt;/th&gt;        &lt;th style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 10px 16px;&quot;&gt;Transisi&lt;/th&gt;        &lt;th style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 10px 16px;&quot;&gt;Keterangan&lt;/th&gt;      &lt;/tr&gt;    &lt;/thead&gt;    &lt;tbody style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);&quot;&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;1&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , Z₀ → E Z₀&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Inisialisasi: masukkan simbol awal E ke stack&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;2&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , E → T E&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Produksi untuk E&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;3&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , E&#39; → + T E&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Operator penjumlahan&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;4&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , E&#39; → - T E&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Operator pengurangan&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;5&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , E&#39; → ε&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Akhiri E&#39;&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;6&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , T → F T&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Produksi untuk T&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;7&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , T&#39; → * F T&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Operator perkalian&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;8&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , T&#39; → / F T&#39;&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Operator pembagian&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;9&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , T&#39; → ε&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Akhiri T&#39;&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;10&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , F → ( E )&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Ekspresi dalam kurung&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;11&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;ε , F → 0 | 1 | 2 | ... | 9&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Operand berupa angka 0 - 9&lt;/td&gt;&lt;/tr&gt;      &lt;tr&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 14px; text-align: center;&quot;&gt;12&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;X , X → ε&lt;br&gt;(X ∈ { ( ) + - * / 0...9 })&lt;/td&gt;&lt;td style=&quot;border: 1.5px solid rgb(142, 169, 219); padding: 8px 16px;&quot;&gt;Cocokkan terminal: jika simbol stack sama dengan input, pop (hapus) stack top&lt;/td&gt;&lt;/tr&gt;    &lt;/tbody&gt;  &lt;/table&gt;&lt;br&gt;  &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="640" width="640" x="807.5" y="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
